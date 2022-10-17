@@ -1,7 +1,7 @@
 Hi everyone, I’m Marcin
-- I’m interested in: data analysis, data science, and learning new topics 📊 🔬
+- I’m interested in: data analysis, data science, data consulting, and learning new topics 📊 🔬 :books:
 - 💞️ I’m open for new job opportunities realated to these subjects
-- 📬 If you want to ask me some questions, report any mistakes, suggest improvements, give feedback, feel free to do so by emailing me at:
+- 📬 If you want to ask me some questions, report any mistakes, suggest improvements, give feedback, feel free to do so by emailing or connecting me at:
 marcin.sikorski93@wp.pl or LinkedIn
 
 <!---
