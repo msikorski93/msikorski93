@@ -24,10 +24,13 @@
 <a href="https://matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/240px-Matplotlib_icon.svg.png" alt="matplotlib" width="40" height="40"/> </a>
 <a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/224px-Tensorflow_logo.svg.png" alt="tensorflow" width="40" height"40"/> </a>
+<a href="https://pypi.org/project/folium/" target="_blank" rel="noreferrer"> <img src="https://pypi-camo.freetls.fastly.net/a1cecb3cdad8b27da8b7cd1a6622bc900ef79907/687474703a2f2f6661726d332e737461746963666c69636b722e636f6d2f323836302f383735343636313038315f633430653561323134635f6f2e6a7067" alt="folium" width="40" height"40"/> </a>
+<a href="https://geopandas.org" target="_blank" rel="noreferrer"> <img src="https://geopandas.org/en/latest/_images/geopandas_icon.png" alt="geopandas" width="40" height"40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msikorski93&show_icons=true&locale=en&layout=compact" alt="msikorski93" /> </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msikorski93&show_icons=true&locale=en" alt="msikorski93" /> </p>
 
 <!---
 msikorski93/msikorski93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
