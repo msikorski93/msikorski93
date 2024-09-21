@@ -1,9 +1,12 @@
-# Hi everyone, I’m Marcin :wave:
+## Hi everyone, I’m Marcin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msikorski93&label=Profile%20views&color=0e75b6&style=flat" alt="msikorski93" /> </p>
 
+<!--
 - I’m interested in: machine learning, data science, AI, and learning new topics :bar_chart: :chart_with_upwards_trend: :microscope: :books:
-- :nerd_face: I'm currently learning machine learning
+-->
+- :handshake: I'm looking forward to work in: machine learning, data science, and GIS
+- :microscope: I'm currently learning machine learning
 - :earth_americas: Currently located in Warsaw, Poland
 - :speech_balloon: Feel free if you want to ask me some questions, report any mistakes, give feedback, or suggest improvements
 - :mailbox_with_mail: You can reach me via **marcin.sikorski93@wp.pl**
@@ -26,6 +29,7 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/224px-Tensorflow_logo.svg.png" alt="tensorflow" width="40" height"40"/> </a>
 <a href="https://pypi.org/project/folium/" target="_blank" rel="noreferrer"> <img src="https://pypi-camo.freetls.fastly.net/a1cecb3cdad8b27da8b7cd1a6622bc900ef79907/687474703a2f2f6661726d332e737461746963666c69636b722e636f6d2f323836302f383735343636313038315f633430653561323134635f6f2e6a7067" alt="folium" width="40" height"40"/> </a>
 <a href="https://geopandas.org" target="_blank" rel="noreferrer"> <img src="https://geopandas.org/en/latest/_images/geopandas_icon.png" alt="geopandas" width="40" height"40"/> </a>
+<a href="https://openai.com" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/8XCwpfWc9YkehwhrhoID6PGhs5SaSJoocS0oTBA8EsGFGLrj32oIYu5UKsIO7wdU1PQZ" alt="openAI" width="40" height"40"/> </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msikorski93&show_icons=true&locale=en&layout=compact" alt="msikorski93" /> </p>
