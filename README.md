@@ -1,21 +1,19 @@
-## Hi everyone, I’m Marcin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msikorski93&label=Profile%20views&color=0e75b6&style=flat" alt="msikorski93" /> </p>
+### Hi everyone, I’m Marcin <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width='30px'>
 
 <!--
 - I’m interested in: machine learning, data science, AI, and learning new topics :bar_chart: :chart_with_upwards_trend: :microscope: :books:
 -->
-- :handshake: I'm looking forward to work in: machine learning, data science, and GIS
+- :technologist: I'm looking forward to work in: machine learning, data science, or GIS
 - :microscope: I'm currently learning machine learning
 - :earth_americas: Currently located in Warsaw, Poland
 - :speech_balloon: Feel free if you want to ask me some questions, report any mistakes, give feedback, or suggest improvements
 - :mailbox_with_mail: You can reach me via **marcin.sikorski93@wp.pl**
 
-<h3 align="left">Connect With Me:</h3>
+### :handshake: Connect With Me:
 <p align="left">
 <a href="https://www.linkedin.com/in/sikorski-marcin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sikorski-marcin" height="20" width="30" /> </a> </p>
 
-<h3 align="left">Languages, Libraries, and Tools:</h3>
+### :briefcase: Technical Skills and Tools:
 <p align="left"> <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="power_bi" width="40" height="40"/> </a>
 <a href="https://www.databricks.com" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/496/62/png-transparent-databricks-logo-thumbnail-tech-companies-thumbnail.png" alt="databricks" width="50" height="40"/> </a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google-cloud-platform.svg/240px-Google-cloud-platform.svg.png" alt="gcp" width="40" height="40"/> </a>
@@ -31,6 +29,9 @@
 <a href="https://geopandas.org" target="_blank" rel="noreferrer"> <img src="https://geopandas.org/en/latest/_images/geopandas_icon.png" alt="geopandas" width="40" height"40"/> </a>
 <a href="https://openai.com" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/8XCwpfWc9YkehwhrhoID6PGhs5SaSJoocS0oTBA8EsGFGLrj32oIYu5UKsIO7wdU1PQZ" alt="openAI" width="40" height"40"/> </a> 
 </p>
+
+### :bar_chart: GitHub Stats:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=msikorski93&label=Profile%20views&color=0e75b6&style=flat" alt="msikorski93" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msikorski93&show_icons=true&locale=en&layout=compact" alt="msikorski93" /> </p>
 
