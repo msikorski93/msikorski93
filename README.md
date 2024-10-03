@@ -14,6 +14,29 @@
 <a href="https://www.linkedin.com/in/sikorski-marcin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sikorski-marcin" height="20" width="30" /> </a> </p>
 
 ### :briefcase: Technical Skills and Tools:
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=white&logo=Python&logoColor=3776AB)](#)
+[![Jupyter Badge](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&labelColor=white&logo=Jupyter&logoColor=F37626)](#)
+[![PowerBI Badge](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&labelColor=white&logo=PowerBI&logoColor=F2C811)](#)
+[![pandas Badge](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&labelColor=white&logo=pandas&logoColor=150458)](#)
+[![NumPy Badge](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&labelColor=white&logo=NumPy&logoColor=013243)](#)
+<br>
+[![Databricks Badge](https://img.shields.io/badge/-Databricks-FF3621?style=for-the-badge&labelColor=white&logo=Databricks&logoColor=FF3621)](#)
+[![GCP Badge](https://img.shields.io/badge/-google--cloud-4285F4?style=for-the-badge&labelColor=white&logo=google-cloud&logoColor=4285F4)](#)
+[![Colab Badge](https://img.shields.io/badge/-google--colab-F9AB00?style=for-the-badge&labelColor=white&logo=google-colab&logoColor=F9AB00)](#)
+[![scikit-learn Badge](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&labelColor=white&logo=scikit-learn&logoColor=F7931E)](#)
+<br>
+[![GeoPandas Badge](https://img.shields.io/badge/-GeoPandas-139C5A?style=for-the-badge&labelColor=white&logo=GeoPandas&logoColor=139C5A)](#)
+[![Folium Badge](https://img.shields.io/badge/-Folium-77B829?style=for-the-badge&labelColor=white&logo=Folium&logoColor=77B829)](#)
+[![Keras Badge](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&labelColor=white&logo=Keras&logoColor=D00000)](#)
+[![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&labelColor=white&logo=TensorFlow&logoColor=FF6F00)](#)
+[![OpenAI Badge](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&labelColor=white&logo=OpenAI&logoColor=412991)](#)
+
+<!--
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=white&logo=MySQL&logoColor=4479A1)](#)
+[![HuggingFace Badge](https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&labelColor=white&logo=HuggingFace&logoColor=FFD21E)](#)
+-->
+
+<!--
 <p align="left"> <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="power_bi" width="40" height="40"/> </a>
 <a href="https://www.databricks.com" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/496/62/png-transparent-databricks-logo-thumbnail-tech-companies-thumbnail.png" alt="databricks" width="50" height="40"/> </a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google-cloud-platform.svg/240px-Google-cloud-platform.svg.png" alt="gcp" width="40" height="40"/> </a>
@@ -29,6 +52,7 @@
 <a href="https://geopandas.org" target="_blank" rel="noreferrer"> <img src="https://geopandas.org/en/latest/_images/geopandas_icon.png" alt="geopandas" width="40" height"40"/> </a>
 <a href="https://openai.com" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/8XCwpfWc9YkehwhrhoID6PGhs5SaSJoocS0oTBA8EsGFGLrj32oIYu5UKsIO7wdU1PQZ" alt="openAI" width="40" height"40"/> </a> 
 </p>
+-->
 
 ### :bar_chart: GitHub Stats:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msikorski93&label=Profile%20views&color=0e75b6&style=flat" alt="msikorski93" /> </p>
