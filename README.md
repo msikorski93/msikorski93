@@ -16,23 +16,24 @@
 ### :briefcase: Technical Skills and Tools:
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=white&logo=Python&logoColor=3776AB)](#)
 [![Jupyter Badge](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&labelColor=white&logo=Jupyter&logoColor=F37626)](#)
-[![PowerBI Badge](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&labelColor=white&logo=PowerBI&logoColor=F2C811)](#)
+[![PowerBI Badge](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&labelColor=white&logo=powerbi&logoColor=F2C811)](#)
 [![Anaconda Badge](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&labelColor=white&logo=Anaconda&logoColor=44A833)](#)
 [![pandas Badge](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&labelColor=white&logo=pandas&logoColor=150458)](#)
 [![NumPy Badge](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&labelColor=white&logo=NumPy&logoColor=013243)](#)
 <br>
 [![Databricks Badge](https://img.shields.io/badge/-Databricks-FF3621?style=for-the-badge&labelColor=white&logo=Databricks&logoColor=FF3621)](#)
-[![GCP Badge](https://img.shields.io/badge/-google--cloud-4285F4?style=for-the-badge&labelColor=white&logo=google-cloud&logoColor=4285F4)](#)
-[![Colab Badge](https://img.shields.io/badge/-google--colab-F9AB00?style=for-the-badge&labelColor=white&logo=google-colab&logoColor=F9AB00)](#)
-[![scikit-learn Badge](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&labelColor=white&logo=scikit-learn&logoColor=F7931E)](#)
+[![GCP Badge](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&labelColor=white&logo=google-cloud&logoColor=4285F4)](#)
+[![Colab Badge](https://img.shields.io/badge/-Google_Colab-F9AB00?style=for-the-badge&labelColor=white&logo=google-colab&logoColor=F9AB00)](#)
+[![BigQuery Badge](https://img.shields.io/badge/-Google_BigQuery-669DF6?style=for-the-badge&labelColor=white&logo=googlebigquery&logoColor=669DF6)](#)
 <br>
+[![scikit-learn Badge](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&labelColor=white&logo=scikit-learn&logoColor=F7931E)](#)
 [![GeoPandas Badge](https://img.shields.io/badge/-GeoPandas-139C5A?style=for-the-badge&labelColor=white&logo=GeoPandas&logoColor=139C5A)](#)
 [![Folium Badge](https://img.shields.io/badge/-Folium-77B829?style=for-the-badge&labelColor=white&logo=Folium&logoColor=77B829)](#)
-[![Keras Badge](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&labelColor=white&logo=Keras&logoColor=D00000)](#)
 [![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&labelColor=white&logo=TensorFlow&logoColor=FF6F00)](#)
 [![OpenAI Badge](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&labelColor=white&logo=OpenAI&logoColor=412991)](#)
 
 <!--
+[![Keras Badge](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&labelColor=white&logo=Keras&logoColor=D00000)](#)
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=white&logo=MySQL&logoColor=4479A1)](#)
 [![HuggingFace Badge](https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&labelColor=white&logo=HuggingFace&logoColor=FFD21E)](#)
 -->
