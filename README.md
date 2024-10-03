@@ -17,6 +17,7 @@
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=white&logo=Python&logoColor=3776AB)](#)
 [![Jupyter Badge](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&labelColor=white&logo=Jupyter&logoColor=F37626)](#)
 [![PowerBI Badge](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&labelColor=white&logo=PowerBI&logoColor=F2C811)](#)
+[![Anaconda Badge](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&labelColor=white&logo=Anaconda&logoColor=44A833)](#)
 [![pandas Badge](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&labelColor=white&logo=pandas&logoColor=150458)](#)
 [![NumPy Badge](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&labelColor=white&logo=NumPy&logoColor=013243)](#)
 <br>
