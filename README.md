@@ -4,10 +4,9 @@
 - I’m interested in: machine learning, data science, AI, and learning new topics :bar_chart: :chart_with_upwards_trend: :microscope: :books:
 -->
 - :technologist: I'm looking forward to work in: machine learning, data science, or GIS
-- :microscope: I'm currently learning machine learning
+- :microscope: I'm currently learning machine learning - a full self-learner
 - :earth_americas: Currently located in Warsaw, Poland
 - :speech_balloon: Feel free if you want to ask me some questions, report any mistakes, give feedback, or suggest improvements
-- :mailbox_with_mail: You can reach me via **marcin.sikorski93@wp.pl**
 
 ### :handshake: Connect With Me:
 <p align="left">
