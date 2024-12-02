@@ -5,7 +5,7 @@
 -->
 - :technologist: I'm looking forward to work in: machine learning, data science, or GIS
 - :microscope: I'm currently learning machine learning
-- :crown: I'm a proud full self-learner, I never attended any learning courses
+- :crown: I'm a proud full self-learner, I've never attended any learning courses or bootcamps
 - :earth_americas: Currently located in Warsaw, Poland
 - :speech_balloon: Feel free if you want to ask me some questions, report any mistakes, give feedback, or suggest improvements
 - :money_with_wings: "Gaining knowledge is the first step to wisdom. Sharing knowledge is the first step to humanity."
