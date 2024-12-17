@@ -12,7 +12,7 @@
 
 ### :handshake: Connect With Me:
 <p align="left">
-<a href="https://www.linkedin.com/in/sikorski-marcin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sikorski-marcin" height="20" width="30" /> </a> </p>
+<a href="https://www.linkedin.com/in/sikorski-marcin" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="sikorski-marcin" height="30" width="30" /> </a> </p>
 
 ### :briefcase: Technical Skills and Tools:
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=white&logo=Python&logoColor=3776AB)](#)
@@ -60,11 +60,17 @@
 ### :bar_chart: GitHub Stats:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msikorski93&label=Profile%20views&color=0e75b6&style=flat" alt="msikorski93" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msikorski93&show_icons=true&locale=en&layout=compact" alt="msikorski93" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msikorski93&show_icons=true&hide=javascript,tex&locale=en&layout=compact&theme=tokyonight" alt="msikorski93" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msikorski93&show_icons=true&locale=en" alt="msikorski93" /> </p>
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=msikorski93&theme=tokyonight" alt="msikorski93" /> </p>
 
-<!---
+<!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msikorski93&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="msikorski93" /> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msikorski93&show_icons=true&locale=en&theme=tokyonight" alt="msikorski93" /> </p>
+-->
+
+<!--
 msikorski93/msikorski93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+-->
