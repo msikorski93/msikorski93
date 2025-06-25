@@ -23,6 +23,7 @@
 [![NumPy Badge](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&labelColor=white&logo=NumPy&logoColor=013243)](#)
 <br>
 [![Databricks Badge](https://img.shields.io/badge/-Databricks-FF3621?style=for-the-badge&labelColor=white&logo=Databricks&logoColor=FF3621)](#)
+[![PySpark Badge](https://img.shields.io/badge/-PySpark-E25A1C?style=for-the-badge&labelColor=white&logo=apache-spark&logoColor=E25A1C)](#)
 [![GCP Badge](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&labelColor=white&logo=google-cloud&logoColor=4285F4)](#)
 [![Colab Badge](https://img.shields.io/badge/-Google_Colab-F9AB00?style=for-the-badge&labelColor=white&logo=google-colab&logoColor=F9AB00)](#)
 [![BigQuery Badge](https://img.shields.io/badge/-Google_BigQuery-669DF6?style=for-the-badge&labelColor=white&logo=googlebigquery&logoColor=669DF6)](#)
